@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pixcoretech.px1.buzz/sitemap.xml
